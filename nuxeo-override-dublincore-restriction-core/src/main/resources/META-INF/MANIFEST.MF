@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.acme.ecm.schema
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-override-dublincore-restriction-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.acme.ecm.schema.nuxeo-override-dublincore-restriction-core;singleton=true
+Nuxeo-Component: OSGI-INF/overrideschemadublincore-contrib.xml
