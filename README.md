@@ -34,6 +34,8 @@ cd nuxeo-override-dublincore-restriction
 mvn clean install
 ```
 
+[![Java CI with Maven](https://github.com/vdutat/nuxeo-override-dublincore-restriction/actions/workflows/maven.yml/badge.svg)](https://github.com/vdutat/nuxeo-override-dublincore-restriction/actions/workflows/maven.yml)
+
 ## Installation
 
 ```
